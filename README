@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nttlman23/dhcpclient.svg?branch=master)](https://travis-ci.org/nttlman23/dhcpclient)
+
 # dhcpclient
 Based on https://github.com/JohannesBuchner/DHCProbe and https://github.com/samueldotj/dhcp-client
 
