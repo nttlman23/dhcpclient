@@ -26,10 +26,11 @@ Based on [DHCProbe](https://github.com/JohannesBuchner/DHCProbe) and [dhcp-clien
 - -r - requested ip address
 - -s - server ip address
 - -l - log level (0 - quiet, 3 - verbose)
-- -v - verbose (log level = 3)
+- -v - verbose (loglevel = 3)
 
 ### Build
-$ mkdir build && cd build
+$ mkdir build
+$ cd build
 
 $ cmake ../
 
